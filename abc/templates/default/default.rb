@@ -1,0 +1,3 @@
+hello world <%= node["kernel"]["name" ]%>
+#<%= node["name"]["game"] %>
+
